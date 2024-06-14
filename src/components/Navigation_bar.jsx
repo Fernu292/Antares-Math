@@ -9,7 +9,7 @@ const Nav_Bar = () => {
             <div className='list'>
                 <a href='/calculator'>Supersonic Nozzle flow</a>
                 <a href='https://www.facebook.com/AntaresSpaceTeam/?locale=es_LA'>About</a>
-                <a href='https://github.com/Fernu292'>Code</a>
+                <a href='https://github.com/Fernu292/Antares-Math'>Code</a>
             </div>
         </div>
     );
